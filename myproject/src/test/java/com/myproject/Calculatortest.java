@@ -18,7 +18,7 @@ public class Calculatortest {
 	public void tearDown() throws Exception {
 		c=null;
 	}
-
+//
 	@Test
 	public void testAddition() {
 		int result=c.addition(4,5);
